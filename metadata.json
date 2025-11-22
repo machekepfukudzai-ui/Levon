@@ -1,0 +1,7 @@
+{
+  "name": "Levon Wallet",
+  "description": "An intelligent multi-currency wallet for Zimbabwe, featuring P2P trading, Bitcoin integration, and seamless store payments powered by AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
